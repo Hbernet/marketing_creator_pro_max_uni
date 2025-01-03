@@ -1,0 +1,49 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "元界获客宝",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/characterClone/index",
+			"style": {
+				"navigationBarTitleText": "定制数字人"
+			}
+		},
+		{
+			"path": "pages/characterList/index",
+			"style": {
+				"navigationBarTitleText": "我的数字人",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/generate-oral-broadcast/index",
+			"style": {
+				"navigationBarTitleText": "AI视频创作",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/agreement/index",
+			"style": {
+				"navigationBarTitleText": "数字人克隆协议"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "元界矩阵",
+		"navigationBarBackgroundColor": "#131414",
+		"backgroundColor": "#131414"
+	}
+}
